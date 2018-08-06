@@ -13,13 +13,14 @@ echo<<<_END
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+      <span class="navbar-brand" >Geomate</span>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a href="./user_home.php">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="./comments.php">Comments <span class="sr-only">(current)</span></a></li>
         
         
       </ul>

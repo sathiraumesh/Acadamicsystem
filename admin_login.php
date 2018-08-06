@@ -87,7 +87,7 @@ if(!($rows>0)){
 
             <form method="post" action="admin_login.php">
                 <div class="form-group">
-                    <label for="exampleInputEmail1">IndexNumber</label>
+                    <label for="exampleInputEmail1">Use Name</label>
                     <input type="text" class="form-control" id="indexnumber"  placeholder="Enter User Name" name="username">
                     <small id="emailHelp" class="form-text text-muted"></small>
                 </div>

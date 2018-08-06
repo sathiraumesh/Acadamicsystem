@@ -8,3 +8,17 @@
     text-align: center;
     display: inline !important;
 }
+.box{
+
+    background-color:aliceblue;
+    height: 400px;
+    overflow:scroll;
+}
+
+/* .float-message{
+    float: left;
+}
+
+.clear{
+    clear: both;
+} */
