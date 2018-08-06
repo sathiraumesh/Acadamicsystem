@@ -70,10 +70,13 @@ if(!($rows>0)){
 
 <body>
 <h1 class="heading">GEOMATE</h1>
+<h3 class="header-caption">E-Learning Sytem of Faculty of Geomatics</h3>
   
        
         
-    <div class="container ">
+    <div class="container parent">
+
+    <div class="img-box"></div>
         
         
         <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 image-logo">
